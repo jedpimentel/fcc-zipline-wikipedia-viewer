@@ -1,0 +1,34 @@
+body {
+	
+}
+
+/* artical entry link box */
+.article-entry {
+	color: inherit;
+	text-decoration: inherit;
+	
+	display: inline-block;
+	border:1px solid black;
+	
+	width: 90%;
+	margin: 0.1em;
+}
+.article-entry:hover {
+	background-color: #EEE;
+}
+
+
+.article-title {
+	float: left;
+	margin-right: 0.5em;
+	
+	font-weight: bold;
+	font-size: 1.8em;
+}
+
+
+.article-description {
+	display: inline;
+	
+	width: 10em;
+}
